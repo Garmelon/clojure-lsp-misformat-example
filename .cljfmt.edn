@@ -1,0 +1,2 @@
+{:indents {example/foo [[:inner 0]]}
+ :alias-map {ex example}}
